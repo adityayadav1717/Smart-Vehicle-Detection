@@ -38,8 +38,9 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AnupPandey04/Aura---A-Live-Weather-Application.git
-   Aura---A-Live-Weather-Application
+  
+git clone https://github.com/adityayadav1717/Live-Weather-Application.git
+
    ```
 2. Install dependencies:
    ```bash
