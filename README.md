@@ -10,7 +10,7 @@ Aura is a responsive, interactive weather application built with **React** and *
 
 
 ## Demo
-Check out the live demo here: [Aura Weather App](https://aura-a-live-weather-application.vercel.app/)
+Check out the live demo here: [Live_Weather App](https://aura-a-live-weather-application.vercel.app/)
 
 ---
 
