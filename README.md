@@ -38,8 +38,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-  
-git clone https://github.com/adityayadav1717/Live-Weather-Application.git
+   git clone https://github.com/adityayadav1717/Live-Weather-Application.git
 
    ```
 2. Install dependencies:
