@@ -82,4 +82,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-✨ Built with ❤️ by **Anup Pandey**
+✨ Built with ❤️ Aditya Yadav**
